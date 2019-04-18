@@ -12,7 +12,7 @@ setuptools.setup(name='mytest',
                  author='Chris Brackley',
                  author_email='C.Brackley@ed.ac.uk',
                  url='https://git.ecdf.ed.ac.uk/cbrackle/capC-MAP',
-                 packages=['capC','capC/resources'],
+                 packages=['teststuff'],
                  include_package_data=True,
                  classifiers=[
                      "Programming Language :: Python :: 2",
