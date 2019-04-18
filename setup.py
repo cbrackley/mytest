@@ -2,8 +2,7 @@
 
 import setuptools
 
-with open("README.rst", "r") as fh:
-    long_description = fh.read()
+long_description = "hello"
 
 setuptools.setup(name='mytest',
                  version='1.1.1',
